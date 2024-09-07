@@ -33,6 +33,6 @@ Sinta-se à vontade para usar, modificar e distribuir este código.
 
 **Agradecimentos:**
 
-Agradecemos a todos que contribuíram para este projeto! Em especial, aos instrutotres da Imersão Alura que nos inspira a criar coisas incríveis.
+Agradecemos a todos que contribuíram para este projeto! Em especial, aos instrutotres da Imersão Dev com Google Gemini Alura que nos inspira a criar coisas incríveis.
 
 Vamos cozinhar juntos! ‍‍
